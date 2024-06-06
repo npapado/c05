@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/user/Desktop/C Portfolio/ft_iterative_factorial'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _ft_iterative_factorial, symObjAddr: 0x0, symBinAddr: 0x100003DA4, symSize: 0xC0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _ft_iterative_factorial, symObjAddr: 0x0, symBinAddr: 0x100003DA4, symSize: 0xC0 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC0, symBinAddr: 0x100003E64, symSize: 0xC8 }
+...
